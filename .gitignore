@@ -1,0 +1,20 @@
+#ignore file
+README.txt
+download.txt
+
+#ignore folder name 
+.idea
+data
+src
+venv/Lib/bwidget-1.9.10
+venv/Lib/site-packages/*
+venv/Include
+venv/Scripts
+venv/share
+flask_api/recipe/*
+
+#ignore the file
+vgg_embedding.py
+
+#not ignore
+!venv/Lib/site-packages/flask_api
